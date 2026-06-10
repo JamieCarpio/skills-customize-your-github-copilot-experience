@@ -77,6 +77,20 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "searching-sorting-fundamentals",
+      "title": "Searching & Sorting Fundamentals",
+      "description": "Implement and compare linear & binary search plus insertion sort; measure operation counts",
+      "path": "assignments/searching-sorting-fundamentals",
+      "dueDate": "2026-06-17",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }

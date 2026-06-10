@@ -1,0 +1,7 @@
+In computer science classes, text processing is a common task.
+Students learn how to read files, manipulate strings, and count words.
+
+This sample text includes punctuation, repeated words, and some stopwords.
+Use it to test your parser: tokenization, normalization, and frequency counts.
+
+Happy coding! Happy learning. Learning is fun, and coding is powerful.
